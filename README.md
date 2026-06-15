@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-mio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu cuerpo mío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-mio/) |
+| **Get License** | [Get a Licensing Quote for Tu cuerpo mío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-mio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú sabes que la noche nos llama, sirena
+> Ese movimiento lento que rompe la escena
+> Déjame acercarme, sentir tu calor
+> Tu cuerpo mío, perdiendo el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
