@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-mio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tu cuerpo mío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-mio/) |
+| **Get License** | [License this song: Tu cuerpo mío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-mio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `00656806f5aea1396d940b3a7398b4f6f1f52dc17c16eb4fc173e843ae38cdda` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
